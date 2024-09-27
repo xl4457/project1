@@ -36,7 +36,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/amy/Documents/NYU/Fall&apos;24/Intro to Game Programming/Project1/SDLSimple"
+      customWorkingDirectory = "/Users/amy/Documents/NYU/Fall&apos;24/Intro to Game Programming/project1/project1clone/SDLSimple"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
